@@ -44,6 +44,15 @@ pipx reinstall doom
 ## Why?
 Doom was created to help security analysts identify vulnerabilities in certificate templates in an Active Directory environment. Recently, I've seen some posts and talks about false positives in some tools, so why not look at the template manually? Of course, I don't have any problem with these tools or their results; this project is not a war against them or a form of depreciation. It's simply a new way to look at certificate templates.
 
+<br>
+
+<img width="1514" height="851" alt="image" src="https://github.com/user-attachments/assets/d74eafee-b143-472e-8f5f-d078c2d58ef3" />
+
+<img width="1514" height="851" alt="image" src="https://github.com/user-attachments/assets/2603d55c-b725-4c88-beda-ef3cbec6139b" />
+
+<img width="1514" height="851" alt="image" src="https://github.com/user-attachments/assets/fd06aed1-0fdd-47b3-b613-8770a88a2de2" />
+
+
 ## To-Do
 - [ ] Improve TUI
 - [ ] Retrieve more properies from the certificate templates
