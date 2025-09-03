@@ -1,12 +1,12 @@
 [project]
 name = "doom"
-version = "0.1.0"
+version = "0.1.1"
 description = "Certificate Template Viewer"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "asn1crypto>=1.5.1",
     "asyncio>=4.0.0",
-    "certipy-ad>=4.8.2",
     "ldap3 @ git+https://github.com/cannatag/ldap3.git@dev",
     "textual>=6.0.0",
     "textual-dev>=1.7.0",
