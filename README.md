@@ -58,7 +58,8 @@ Doom was created to help security analysts identify vulnerabilities in certifica
 ## To-Do
 - [ ] Improve TUI
 - [ ] Retrieve more properies from the certificate templates
-- [ ] Copy more Certipy code
+- [ ] Enumerate Groups/Users allowed to enroll certificates
+- [x] *Copy more Certipy code*
 
 <br>
 
