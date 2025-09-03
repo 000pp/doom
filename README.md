@@ -22,20 +22,20 @@ We recommend using [pipx](https://github.com/pypa/pipx) to install the project, 
 ```
 sudo apt install pipx git
 pipx ensurepath
-pipx install git+https://github.com/000pp/doom
+pipx install git+https://github.com/000pp/doom --include-deps
 ```
 
 ### MacOS
 ```
 brew install pipx
 pipx ensurepath
-pipx install git+https://github.com/000pp/doom
+pipx install git+https://github.com/000pp/doom --include-deps
 ```
 
 ### Local
 ```
 git clone https://github.com/000pp/doom.git
-pipx install .
+pipx install . --include-deps
 ```
 
 ### Updating
