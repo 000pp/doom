@@ -1,7 +1,7 @@
 from ldap3 import SUBTREE
 
-from src.protocols.ldap import safe_ldap_attr
-from src.parsers.filetime import parse_filetime
+from doom.protocols.ldap import safe_ldap_attr
+from doom.parsers.filetime import parse_filetime
 
 try:
     from certipy.lib.constants import (

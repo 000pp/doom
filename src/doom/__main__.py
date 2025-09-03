@@ -1,4 +1,3 @@
-import asyncio
 from textual.app import App
 from textual.binding import Binding
 
@@ -16,6 +15,9 @@ class DoomApp(App):
         self.sub_title = "LDAP Certificate Template Details Viewer"
         self.push_screen(LoginScreen())
 
-if __name__ == "__main__":
+def run():
     app = DoomApp()
     app.run()
+
+if __name__ == "__main__":
+    run()
