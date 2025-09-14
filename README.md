@@ -1,8 +1,5 @@
-<p align="center">
-    <picture>
-        <img src="img/banner.jpg" width=1200px>
-    </picture>
-</p>
+![doom_banner](https://github.com/user-attachments/assets/99d2db34-b242-4038-9ae8-d26dcbd3f7ab)
+
 
 Doom is a Python tool developed to be used in Active Directory environments with Active Directory Certificate Services (ADCS) present. It identifies the ADCS server and enumerates all the templates and their properties, which can be useful to help identify security risks in the certificate templates.
 
